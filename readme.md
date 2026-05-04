@@ -72,7 +72,7 @@ ps5_capture
 ---
 
 ## Structure du projet
-
+```text
 ps5-capture/
 ├── CMakeLists.txt         # Configuration de compilation
 ├── main.cpp               # Point d'entrée
@@ -81,7 +81,7 @@ ps5-capture/
 ├── resources.qrc          # Ressources Qt (icône)
 ├── Ps5_Logo.png           # Icône de l'application
 └── install.sh             # Script d'installation
-
+```
 ---
 
 ## Compatibilité
