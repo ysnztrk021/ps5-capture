@@ -73,15 +73,14 @@ ps5_capture
 
 ## Structure du projet
 
-|ps5-capture/ | |
-|-------------|------------|
-|├── CMakeLists.txt         | # Configuration de compilation
-|├── main.cpp               | # Point d'entrée
-|├── mainwindow.h/.cpp      | # Fenêtre principale
-|├── gstwidget.h/.cpp       | # Widget vidéo GStreamer
-|├── resources.qrc          | # Ressources Qt (icône)
-|├── Ps5_Logo.png           | # Icône de l'application
-|└── install.sh             | # Script d'installation
+ps5-capture/
+├── CMakeLists.txt         # Configuration de compilation
+├── main.cpp               # Point d'entrée
+├── mainwindow.h/.cpp      # Fenêtre principale
+├── gstwidget.h/.cpp       # Widget vidéo GStreamer
+├── resources.qrc          # Ressources Qt (icône)
+├── Ps5_Logo.png           # Icône de l'application
+└── install.sh             # Script d'installation
 
 ---
 
