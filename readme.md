@@ -73,7 +73,8 @@ ps5_capture
 
 ## Structure du projet
 
-|ps5-capture/
+|ps5-capture/ | |
+|-------------|------------|
 |├── CMakeLists.txt          # Configuration de compilation
 |├── main.cpp                # Point d'entrée
 |├── mainwindow.h/.cpp       # Fenêtre principale
